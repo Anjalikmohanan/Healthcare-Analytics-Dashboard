@@ -60,7 +60,9 @@ Enhanced skills in organizing project files, documenting work on GitHub, and pre
 
 5.📸 Dashboard Preview 
 
-PowerBI Dashboard![PowerBI dashboard]()
+PowerBI Dashboard![PowerBI dashboard](https://github.com/Anjalikmohanan/Healthcare-Analytics-Dashboard/blob/main/PowerBI%20dashboard.jpg)
+
+Tableau dashboard![Tableau dashboard](https://github.com/Anjalikmohanan/Healthcare-Analytics-Dashboard/blob/main/Tableau%20dashboard.png)
 
 6.🚀 Conclusion
 
